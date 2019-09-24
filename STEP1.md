@@ -1,8 +1,10 @@
 # STEP1
 
 ```diff
+{% raw %}
 { hoge }
 {{ fuga }}
-\{\{ piyo }}
-4
+{{ piyo }}
+5
+{% endraw %}
 ```
