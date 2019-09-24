@@ -3,8 +3,8 @@
 ```diff
 {% raw %}
 { hoge }
-{{ fuga }}
-{{ piyo }}
++ {{ fuga }}
+- {{ piyo }}
 5
 {% endraw %}
 ```
