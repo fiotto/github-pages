@@ -1,3 +1,6 @@
 # STEP1
 
-STEP1
+```diff
+{ hoge }
+{{ fuga }}
+```
