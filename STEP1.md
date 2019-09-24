@@ -3,6 +3,6 @@
 ```diff
 { hoge }
 {{ fuga }}
-\{{ piyo }}
-1
+#{{ piyo }}
+2
 ```
